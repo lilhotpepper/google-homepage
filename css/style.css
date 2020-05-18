@@ -1,16 +1,18 @@
+/** Stylesheet for Google Homepage **/
+
+/* menu divs (blocks of menu items to the left and right, space in the center */
+
+.block-left, .block-right, .block-center, .menu-left-side, .menu-right-side {
+    display: inline-block;
+}
 
 .menu-left-side {
     padding-left: 15px;
-    display: inline-block;
 }
 
 .menu-right-side {
     padding-right: 15px;
-    display: inline-block;
-}
-
-.block-left, .block-right, .block-center {
-    display: inline-block;
+    margin: 7px 0 0 10px;
 }
 
 .block-left {
@@ -24,6 +26,8 @@
 .block-right {
     text-align: right;
 }
+
+/* */
 
 .headspace {
     top: 0px;
