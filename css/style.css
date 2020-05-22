@@ -87,4 +87,8 @@ a {
 
 .searchbox { 
     background-color: pink;
+    padding: 5px 8px 0px 16px;
+    padding-left: 14px;
+    width: 527px;
+    height: 39px;
 }
