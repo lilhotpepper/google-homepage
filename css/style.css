@@ -54,11 +54,6 @@
     display: inline-block;
 }
 
-.viewport {
-    width: 1495px;
-    height: 492px;
-}
-
 ul {
     list-style-type: none;
     padding-left: 0px;
@@ -86,7 +81,7 @@ a {
 }
 
 .searchbox { 
-    background-color: pink;
+    color: grey;
     border-radius: 35px;
     padding: 5px 8px 0px 16px;
     padding-left: 14px;
