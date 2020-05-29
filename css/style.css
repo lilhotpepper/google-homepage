@@ -67,9 +67,8 @@
 
 .footer {
     height: 40px;
-    margin-left: 27px;
     line-height: 40px;
-    font-size: 10pt;
+    font-size: 14px;
     color: #5f6368;
     background: #f2f2f2;
     min-width: 980px;
@@ -78,6 +77,19 @@
     bottom: 0px;
     left: 0px;
     right: 0px;
+}
+
+.footer-right, .footer-left {
+    display: inline-block;
+}
+
+.footer-right {
+    float: right;
+}
+
+.footer-link {
+    color: #5f6368;
+    font-size: 14px;
 }
 
 ul {
@@ -116,6 +128,3 @@ a {
     box-sizing: border-box;
 }
 
-.searchbox:hover {
-
-}
