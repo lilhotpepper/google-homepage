@@ -84,12 +84,18 @@
 }
 
 .footer-right {
+    margin-right: 27px;
     float: right;
+}
+
+.footer-left {
+    float: left;
 }
 
 .footer-link {
     color: #5f6368;
     font-size: 14px;
+    padding-left: 27px;
 }
 
 ul {
