@@ -1,6 +1,6 @@
 /** Stylesheet for Google Homepage **/
 
-/* menu divs (blocks of menu items to the left and right, space in the center */
+/* menu divs and images */
 
 .menu-block-left, .menu-block-right, .menu-item {
     display: inline-block;
@@ -25,19 +25,12 @@
     vertical-align: middle;
 }
 
-/* */
-
-.headspace {
-    top: 0px;
-    left:0px;
-    right:0px;
-    width: 100%;
-}
+/* google image */
 
 .google-holder {
-    margin-top: 47px;
-    width: 1425px;
+    width: 100%;
     height: 233px;
+    padding-top: 109px;
 }
 
 .search-holder {
