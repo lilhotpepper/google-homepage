@@ -2,29 +2,18 @@
 
 /* menu divs (blocks of menu items to the left and right, space in the center */
 
-.block-left, .block-right, .block-center, .menu-left-side, .menu-right-side {
+.menu-block-left, .menu-block-right, .menu-item {
     display: inline-block;
 }
 
-.menu-left-side {
-    padding-left: 15px;
+
+.menu-block-left {
+    margin-left: 15px;
 }
 
-.menu-right-side {
-    padding-right: 15px;
-    margin: 7px 0 0 10px;
-}
-
-.block-left {
-    text-align: left;
-}
-
-.block-center {
-    width: 60%;
-}
-
-.block-right {
-    text-align: right;
+.menu-block-right {
+    margin-right: 15px;
+    float: right;
 }
 
 /* */
