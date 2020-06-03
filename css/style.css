@@ -16,6 +16,15 @@
     float: right;
 }
 
+.menu-item {
+    padding-left: 15px;
+}
+
+.menu-bar-image {
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
 /* */
 
 .headspace {
