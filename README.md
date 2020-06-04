@@ -1,1 +1,3 @@
 Project: to deconstruct and rebuild the Google homepage
+
+During this project, I learned quite a bit about github workflow.  I made a working copy of my original, created branches, made changes on the branches, merged them back in, and pruned (deleted) old branches.  I learned how to resize images from the command line, using ImageMagick.  I also got to practice with divs and images and aligning.  I also became more familiar with tools like the Developer Tool and the VSC editor.
