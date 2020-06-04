@@ -20,9 +20,12 @@
     padding-left: 15px;
 }
 
-.menu-bar-image {
-    border-radius: 50%;
+.menu-bar-image, .menu-bar-round-image {
     vertical-align: middle;
+}
+
+.menu-bar-round-image {
+    border-radius: 50%;
 }
 
 /* google image */
