@@ -29,12 +29,30 @@
 
 .google-holder {
     width: 100%;
-    height: 233px;
+    height: 92px;
     padding-top: 109px;
 }
 
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+/* search-bar */
+
 .search-holder {
-    height: 140px;
+    height: 64px;
+    margin-top: 37px;
+}
+
+.searchbox { 
+    color: grey;
+    border-radius: 35px;
+    padding: 5px 8px 0px 16px;
+    padding-left: 14px;
+    width: 582px;
+    height: 44px;
+    box-sizing: border-box;
 }
 
 /* the two search boxes under the search bar */
@@ -107,21 +125,5 @@ a {
     font-size: 13px;
     color: #000;
     opacity: .75;
-}
-
-.center {
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
-
-.searchbox { 
-    color: grey;
-    border-radius: 35px;
-    padding: 5px 8px 0px 16px;
-    padding-left: 14px;
-    width: 582px;
-    height: 44px;
-    box-sizing: border-box;
 }
 
